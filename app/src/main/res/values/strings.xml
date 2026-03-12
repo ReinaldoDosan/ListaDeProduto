@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListaDeProduto</string>
+    <string name="tv_hisense_55u7q">TV HISENSE 55U7Q</string>
+    <string name="product_description"> - Eficiência Certificação</string>
+    <string name="title_product">Nome do Produto</string>
+</resources>
